@@ -6,6 +6,7 @@ public class SimplePro {
 	{
 		
      System.out.println("this is my github project");
+     System.out.println("do the cheanges in homepage");
 	}
 
 }
